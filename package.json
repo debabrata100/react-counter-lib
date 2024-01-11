@@ -1,5 +1,5 @@
 {
-  "name": "react-counter-lib",
+  "name": "react-counter-lib-typescript-package",
   "version": "0.1.0",
   "description": "My first react typescript package",
   "main": "./dist/cjs/index.js",
